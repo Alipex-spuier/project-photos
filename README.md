@@ -1,5 +1,5 @@
 # project-photos
-This is my project drawing bed
+This is my project iimage hosting
 
 ## img home
 ```
