@@ -1,5 +1,5 @@
 # project-photos
-This is my project iimage hosting
+This is my project image hosting
 
 ## img home
 ```
